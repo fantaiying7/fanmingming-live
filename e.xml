@@ -22344,6 +22344,9 @@
 	<programme channel="咪咕足球" start="20240729100000 +0800" stop="20240729114000 +0800">
 		<title lang="zh">奥运时刻-女篮小组赛 西班牙-中国</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240729114000 +0800" stop="20240729120000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -51639,6 +51642,9 @@
 	<programme channel="爱情喜剧" start="20240729104800 +0800" stop="20240729113600 +0800">
 		<title lang="zh">25_老酒馆</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20240729113600 +0800" stop="20240729121800 +0800">
+		<title lang="zh">26_老酒馆</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -61512,6 +61518,9 @@
 	<programme channel="超级电影" start="20240729100100 +0800" stop="20240729114900 +0800">
 		<title lang="zh">火锅英雄</title>
 	</programme>
+	<programme channel="超级电影" start="20240729114900 +0800" stop="20240729115500 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -70881,6 +70890,9 @@
 	<programme channel="黑莓动画" start="20240729112800 +0800" stop="20240729114200 +0800">
 		<title lang="zh">18_钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240729114200 +0800" stop="20240729115300 +0800">
+		<title lang="zh">百变布鲁可第4季第10集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -71781,6 +71793,9 @@
 	<programme channel="newtv超级电影" start="20240729100100 +0800" stop="20240729114900 +0800">
 		<title lang="zh">火锅英雄</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240729114900 +0800" stop="20240729115500 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -71834,6 +71849,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240729105500 +0800" stop="20240729113700 +0800">
 		<title lang="zh">25_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240729113700 +0800" stop="20240729121900 +0800">
+		<title lang="zh">26_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -71985,6 +72003,9 @@
 	<programme channel="newtv古装剧场" start="20240729104300 +0800" stop="20240729113400 +0800">
 		<title lang="zh">20_乐游原</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240729113400 +0800" stop="20240729122000 +0800">
+		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -72081,6 +72102,9 @@
 	<programme channel="newtv家庭剧场" start="20240729104700 +0800" stop="20240729113300 +0800">
 		<title lang="zh">31_非常有喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240729113300 +0800" stop="20240729122500 +0800">
+		<title lang="zh">32_非常有喜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -72162,6 +72186,9 @@
 	<programme channel="newtv爱情喜剧" start="20240729104800 +0800" stop="20240729113600 +0800">
 		<title lang="zh">25_老酒馆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240729113600 +0800" stop="20240729121800 +0800">
+		<title lang="zh">26_老酒馆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -72239,6 +72266,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240729111200 +0800" stop="20240729114000 +0800">
 		<title lang="zh">消失的欠债人</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240729114000 +0800" stop="20240729122600 +0800">
+		<title lang="zh">HOKO纯钛富硒RO即热净水机-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -72389,6 +72419,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240729110000 +0800" stop="20240729114200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240729114200 +0800" stop="20240729120700 +0800">
+		<title lang="zh">毛不易演唱歌曲《入海》（20240502）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
